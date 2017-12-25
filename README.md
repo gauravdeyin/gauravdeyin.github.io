@@ -1,5 +1,4 @@
 # gauravdeyin.github.io
-
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -11,7 +10,7 @@
       style with vegetables like onion, tomato, potatoes, and spices. A
       refreshing and tasty change from plain Maggi noodles. This is quite a
       different variation from the 2 minutes masala Maggi we all eat.</p>
-    <table style="width: 100%" border="1">
+    <table style="width: 50%" border="3">
       <tbody>
         <tr>
           <td>Category: Street Food/Snacks</td>
