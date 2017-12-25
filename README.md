@@ -1,13 +1,9 @@
 # gauravdeyin.github.io
 
-<!DOCTYPE html>
 <html>
-<!-Red Hat Stretch Task Writing Assignment->	
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>Street Masala Maggi Recipe</title>
-    <style> h1 {text-align:left;} </style>
-  </head>
+   </head>
   <body>
     <h1 style="color:blue;">Street Masala Maggi Recipe</h1>
     <h2>A simple procedure on how to cook Street Masala Maggi</h2>
