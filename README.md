@@ -10,7 +10,7 @@
       style with vegetables like onion, tomato, potatoes, and spices. A
       refreshing and tasty change from plain Maggi noodles. This is quite a
       different variation from the 2 minutes masala Maggi we all eat.</p>
-    <table style="width: 74%" border="3">
+    <table style="width: 70%" border="3">
       <tbody>
         <tr>
           <td>Category: Street Food/Snacks</td>
