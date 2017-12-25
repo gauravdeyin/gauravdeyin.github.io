@@ -1,13 +1,12 @@
 # gauravdeyin.github.io
-<!-Red Hat Stretch Task Writing Assignment->
+
 <!DOCTYPE html>
 <html>
+<!-Red Hat Stretch Task Writing Assignment->	
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <title>Street Masala Maggi Recipe</title>
-    <style>
-			h1 {text-align:center;}
-		</style>
+    <style> h1 {text-align:left;} </style>
   </head>
   <body>
     <h1 style="color:blue;">Street Masala Maggi Recipe</h1>
