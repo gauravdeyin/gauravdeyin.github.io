@@ -25,7 +25,7 @@
       </tbody>
     </table>
     <h3>Ingredients</h3>
-    <table style="width: 38%;" border="3">
+    <table style="width: 38%;" border="1">
       <tbody>
         <tr>
           <td>Maggi Noodles</td>
